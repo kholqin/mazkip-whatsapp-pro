@@ -1,0 +1,8 @@
+colorama==0.4.6
+requests==2.31.0
+pywhatkit==5.4
+selenium==4.15.0
+webdriver-manager==4.0.1
+cryptography==41.0.7
+phonenumbers==8.13.27
+pillow==10.1.0
